@@ -1,6 +1,6 @@
 <!-- ═══════════════ HERO ═══════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0072ff,50:00a8ff,100:00c6ff&height=260&section=header&text=Shayan%20Ahmad&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Web%20Developer&descSize=20&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,50:00a8ff,100:00c6ff&height=250&section=header&text=Shayan%20Ahmad&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full%20Stack%20Web%20Developer&descSize=20&descAlignY=58" width="100%" />
 </div>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1100&color=36BCF7&center=true&vCenter=true&width=820&height=55&repeat=true&lines=Engineering+Scalable+Web+Applications;Full+Stack+Developer+%7C+MERN+Specialist;React.js+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Express.js+%E2%80%A2+MongoDB;Clean+Architecture.+Secure+APIs.+Polished+Interfaces.;Open+to+Junior+Full+Stack+%26+Software+Engineer+Roles" alt="Animated headline" />
@@ -17,7 +17,10 @@
   <img src="https://komarev.com/ghpvc/?username=shayan368&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 <!-- ═══════════════ PROFESSIONAL SUMMARY ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0072ff,100:00c6ff&height=60&section=header&text=Professional%20Summary&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=3500&color=00C6FF&center=true&vCenter=true&width=700&height=60&repeat=true&lines=Professional+Summary" alt="Professional Summary" />
+</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0072ff,100:00c6ff&height=3&section=header" width="100%" />
 <p align="center">
   Software Engineering graduate and Full Stack Web Developer from Peshawar, Pakistan, specializing in the <b>MERN stack</b>.<br/>
   I build responsive, secure, and maintainable web applications, from REST API design and authentication to polished, user-centered interfaces.<br/>
@@ -67,7 +70,10 @@
   </tr>
 </table>
 <!-- ═══════════════ TECHNICAL EXPERTISE ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0072ff,100:00c6ff&height=60&section=header&text=Technical%20Expertise&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=3500&color=00C6FF&center=true&vCenter=true&width=700&height=60&repeat=true&lines=Technical+Expertise" alt="Technical Expertise" />
+</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0072ff,100:00c6ff&height=3&section=header" width="100%" />
 <table align="center">
   <tr>
     <td align="center" width="20%"><b>🎨 Frontend</b></td>
@@ -96,7 +102,10 @@
   </tr>
 </table>
 <!-- ═══════════════ PROFESSIONAL EXPERIENCE ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0072ff,100:00c6ff&height=60&section=header&text=Professional%20Experience&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=3500&color=00C6FF&center=true&vCenter=true&width=700&height=60&repeat=true&lines=Professional+Experience" alt="Professional Experience" />
+</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0072ff,100:00c6ff&height=3&section=header" width="100%" />
 <table align="center">
   <tr>
     <td width="50%" valign="top">
@@ -124,7 +133,10 @@
   </tr>
 </table>
 <!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0072ff,100:00c6ff&height=60&section=header&text=Featured%20Projects&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=3500&color=00C6FF&center=true&vCenter=true&width=700&height=60&repeat=true&lines=Featured+Projects" alt="Featured Projects" />
+</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0072ff,100:00c6ff&height=3&section=header" width="100%" />
 <table align="center">
   <tr>
     <td colspan="2" align="center" valign="top">
@@ -164,11 +176,15 @@
   </tr>
 </table>
 <!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0072ff,100:00c6ff&height=60&section=header&text=GitHub%20Analytics&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=3500&color=00C6FF&center=true&vCenter=true&width=700&height=60&repeat=true&lines=GitHub+Analytics" alt="GitHub Analytics" />
+</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0072ff,100:00c6ff&height=3&section=header" width="100%" />
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shayan368&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan368&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+ 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shayan368&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
@@ -183,12 +199,18 @@
   </picture>
 </p>
 <!-- ═══════════════ ACHIEVEMENTS ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0072ff,100:00c6ff&height=60&section=header&text=GitHub%20Achievements&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=3500&color=00C6FF&center=true&vCenter=true&width=700&height=60&repeat=true&lines=GitHub+Achievements" alt="GitHub Achievements" />
+</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0072ff,100:00c6ff&height=3&section=header" width="100%" />
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shayan368&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 <!-- ═══════════════ CONNECT ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0072ff,100:00c6ff&height=60&section=header&text=Let%27s%20Connect&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=3500&color=00C6FF&center=true&vCenter=true&width=700&height=60&repeat=true&lines=Let%27s+Connect" alt="Let's Connect" />
+</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0072ff,100:00c6ff&height=3&section=header" width="100%" />
 <p align="center">
   I am actively seeking Junior Full Stack Developer and Software Engineer opportunities,<br/>
   and I welcome conversations about collaboration, projects, and new roles.
@@ -205,6 +227,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=36BCF7&center=true&vCenter=true&width=720&lines=Open+to+collaboration+and+new+opportunities;Building+meaningful+software%2C+one+project+at+a+time" alt="Closing line" />
 </p>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0072ff,50:00a8ff,100:00c6ff&height=140&section=footer&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,50:00a8ff,100:00c6ff&height=140&section=footer&animation=twinkling" width="100%" />
 </div>
  
