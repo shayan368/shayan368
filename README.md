@@ -200,11 +200,11 @@
 </p>
 <!-- ═══════════════ ACHIEVEMENTS ═══════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=3500&color=00C6FF&center=true&vCenter=true&width=700&height=60&repeat=true&lines=GitHub+Achievements" alt="GitHub Achievements" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=3500&color=00C6FF&center=true&vCenter=true&width=700&height=60&repeat=true&lines=Achievements" alt="Achievements" />
 </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0072ff,100:00c6ff&height=3&section=header" width="100%" />
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shayan368&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/shayan368/shayan368/main/assets/achievements.svg" alt="Achievements" width="100%" />
 </p>
 <!-- ═══════════════ CONNECT ═══════════════ -->
 <p align="center">
